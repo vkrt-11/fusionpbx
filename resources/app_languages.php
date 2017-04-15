@@ -1088,5 +1088,6 @@ $text['description-description']['es-cl'] = '';
 $text['description-description']['pt-pt'] = '';
 $text['description-description']['fr-fr'] = '';
 $text['description-description']['it-it'] = 'Inserire la descrizione.';
+$text['description-description']['ru-ru'] = "Введите описание.";
 
 ?>
